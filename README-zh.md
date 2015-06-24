@@ -1,5 +1,7 @@
 # 命令行的艺术
 
+原文出处（包含issues）：https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+
 - [必读](#必读)
 - [基础](#基础)
 - [日常使用](#日常使用)
